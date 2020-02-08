@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{899DF651-0FE4-CC8E-E082-F2A6E70A9994}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HelloWorld.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HelloWorld.cs" Line="10" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project-Elephant" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="HelloWorld.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="27e90eb4-3fbf-4362-9658-1607e01f70ef" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
